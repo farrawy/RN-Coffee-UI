@@ -1,5 +1,5 @@
 # Coffee App UI
-![rn-coffee-ui]([https://res.cloudinary.com/dqoijovud/image/upload/v1666480716/deviceframes_exkvvb.png](https://res.cloudinary.com/dqoijovud/image/upload/v1666480716/deviceframes_exkvvb.png))
+![rn-coffee-ui](https://res.cloudinary.com/dqoijovud/image/upload/v1666480716/deviceframes_exkvvb.png)
 
 ## To Run the app: 
 - `npm install`
